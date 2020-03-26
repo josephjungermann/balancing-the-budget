@@ -52,6 +52,17 @@ html, body {
     color: #e00c0a;
 }
 
+.warning_content {
+    font-size: 1.5em;
+    color: #e8d82a;
+}
+
+.error_content {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #e00c0a;
+}
+
 input {
     width: 100%;
     display: block;
